@@ -1,0 +1,49 @@
+<div align="center">
+
+# 🛍️ Aura Store (Repo & Sito)
+
+### Sito e repository ufficiale
+
+**Il sito web di Aura Store e il catalogo ufficiale compatibile con l'app.**
+
+[![Sito](https://img.shields.io/badge/Sito-store.aurastudioitalia.it-ff69b4?style=for-the-badge)](https://store.aurastudioitalia.it)
+[![App Android](https://img.shields.io/badge/App-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/AuraStudioItalia/store-android-app/releases)
+[![Licenza](https://img.shields.io/badge/Licenza-AGPLv3-blueviolet?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0.html)
+[![Privacy](https://img.shields.io/badge/Privacy-Informativa-success?style=for-the-badge)](https://privacy.aurastudioitalia.it)
+
+</div>
+
+---
+
+## 📦 Cosa contiene
+
+Questo repository contiene il **sito web** di Aura Store e il **catalogo ufficiale** compatibile con l'app.
+
+Il catalogo raccoglie le informazioni sulle app Aura e i relativi **APK**, così che Aura Store possa mostrarli e aiutare gli utenti a **installarli e aggiornarli**.
+
+---
+
+## 🛍️ Aura Store
+
+Aura Store è un **client open source per Android** che permette di consultare e gestire le app dell'ecosistema Aura.
+
+> [!TIP]
+> Supporta anche **repository di terze parti compatibili**, che possono ampliare il catalogo disponibile.
+
+---
+
+## 🔗 Link utili
+
+| | Risorsa | Link |
+|---|---|---|
+| 🌐 | **Sito** | [store.aurastudioitalia.it](https://store.aurastudioitalia.it) |
+| 📚 | **Repository del catalogo ufficiale** | <https://store.aurastudioitalia.it/repo> |
+| 💻 | **Codice sorgente dell'app** | [AuraStudioItalia/store-android-app](https://github.com/AuraStudioItalia/store-android-app) |
+| ⬇️ | **Release dell'app** | [Scarica Aura Store](https://github.com/AuraStudioItalia/store-android-app/releases) |
+| 🔐 | **Informativa privacy** | <https://privacy.aurastudioitalia.it> |
+
+---
+
+## 📜 Licenza
+
+Aura Store è distribuito sotto licenza **GNU AGPLv3**. Per i dettagli e i termini applicabili, fai riferimento al codice sorgente e ai documenti di licenza del progetto.

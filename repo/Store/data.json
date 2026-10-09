@@ -2,27 +2,27 @@
   "app": {
     "name": "Aura Store",
     "icon_url": "icon.png",
-    "description": "Il client open source ufficiale per le app Aura.",
-    "version": "1",
+    "description": "Il client open source ufficiale per gestire le app Aura.",
+    "version": "1.5.0-stable",
     "changelog": [
       {
-        "version": "1",
-        "date": "2026-08-09",
+        "version": "1.5.0-stable",
+        "date": "2026-10-09",
         "changes": [
-          "Aggiunta autenticazione con username",
-          "Migliorata la visualizzazione di aggiornamenti store",
-          "Sincronizzazione dei repository salvati con account Aura",
-          "Aggiunta autenticazione con username",
-          "Corretti bug visivi"
+          "Migliorate performance nell'app",
+          "Aggiunto ping anonimo facoltativo nella creazione account",
+          "Migliorati i passaggi del signup",
+          "Risolti bug interni",
+          "Aggiunta spiegazione su come può essere utilizzato un account Aura dopo il signup"
         ]
       }
     ],
     "apk": {
-      "file_name": "Store-v1-09082026.apk",
-      "size_mb": 31,
+      "file_name": "Store-v1.5.0stable-09102026.apk",
+      "size_mb": 28.8,
       "min_android_version": "7.0",
       "target_sdk": "36",
-      "signature_sha256": "9eb5fc8a428ece811758e1be9fc9ab7f5c14c1004659fb3610827e237354bffa",
+      "signature_sha256": "4d35b6cc93038ebe22bde1c8cc0d3bca5ad18764088fc9e52929a703b08e6670",
       "package_name": "com.aura.store"
     }
   }
